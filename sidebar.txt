@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pms:home|Door43 (pms)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pms|d43-pms repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pms/archive/master.zip|d43-pms.zip]]
+
+**Recent Changes**
+{{changes>ns = pms}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pms|Ethnologue data]]
+
